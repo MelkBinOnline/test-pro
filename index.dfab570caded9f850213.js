@@ -1,0 +1,1 @@
+console.log("im index.js"),document.querySelector("#js").innerHTML="im script";
